@@ -1,3 +1,6 @@
+# HERE IS MY GIT HUB REPO LINK:
+https://shopifygithub.github.io/shopifytestapp/
+
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
